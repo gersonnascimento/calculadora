@@ -1,0 +1,27 @@
+E:\Executaveis liberados\Solutions\Solutions\bin\Debug\Solutions.exe.config
+E:\Executaveis liberados\Solutions\Solutions\bin\Debug\Solutions.exe
+E:\Executaveis liberados\Solutions\Solutions\bin\Debug\Solutions.pdb
+E:\Executaveis liberados\Solutions\Solutions\obj\Debug\Solutions.csprojResolveAssemblyReference.cache
+E:\Executaveis liberados\Solutions\Solutions\obj\Debug\Solutions.Properties.Resources.resources
+E:\Executaveis liberados\Solutions\Solutions\obj\Debug\Solutions.csproj.GenerateResource.Cache
+E:\Executaveis liberados\Solutions\Solutions\obj\Debug\Solutions.exe
+E:\Executaveis liberados\Solutions\Solutions\obj\Debug\Solutions.pdb
+C:\Users\gerso\Desktop\Solutions\Solutions\bin\Debug\Solutions.exe.config
+C:\Users\gerso\Desktop\Solutions\Solutions\obj\Debug\Solutions.exe
+C:\Users\gerso\Desktop\Solutions\Solutions\obj\Debug\Solutions.pdb
+C:\Users\gerso\Desktop\Solutions\Solutions\bin\Debug\Solutions.exe
+C:\Users\gerso\Desktop\Solutions\Solutions\bin\Debug\Solutions.pdb
+C:\Users\gerso\Desktop\Solutions\Solutions\obj\Debug\Solutions.csprojResolveAssemblyReference.cache
+C:\Users\gerso\Desktop\Solutions\Solutions\obj\Debug\Solutions.Form1.resources
+C:\Users\gerso\Desktop\Solutions\Solutions\obj\Debug\Solutions.Properties.Resources.resources
+C:\Users\gerso\Desktop\Solutions\Solutions\obj\Debug\Solutions.csproj.GenerateResource.Cache
+E:\Executaveis Liberados\Solutions\Solutions\obj\Debug\Solutions.Form1.resources
+D:\Calculadora 2000\Solutions\bin\Debug\Solutions.exe.config
+D:\Calculadora 2000\Solutions\obj\Debug\Solutions.exe
+D:\Calculadora 2000\Solutions\obj\Debug\Solutions.pdb
+D:\Calculadora 2000\Solutions\bin\Debug\Solutions.exe
+D:\Calculadora 2000\Solutions\bin\Debug\Solutions.pdb
+D:\Calculadora 2000\Solutions\obj\Debug\Solutions.csprojResolveAssemblyReference.cache
+D:\Calculadora 2000\Solutions\obj\Debug\Solutions.Form1.resources
+D:\Calculadora 2000\Solutions\obj\Debug\Solutions.Properties.Resources.resources
+D:\Calculadora 2000\Solutions\obj\Debug\Solutions.csproj.GenerateResource.Cache
